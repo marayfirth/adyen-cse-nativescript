@@ -9,6 +9,6 @@ import { CardData } from './card-data';
 //   constructor(key: string);
 
 // }
+export decl
 
 export { CardData }
-export { CardEncryption }
