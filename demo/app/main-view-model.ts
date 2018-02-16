@@ -8,8 +8,6 @@ export class HelloWorldModel extends Observable {
   constructor() {
     super();
 
-    //this.adyenCseNativescript = new AdyenCseNativescript();
-    //this.message = this.adyenCseNativescript.message;
     const data: CardData = {
       cvc: '737',
       expiryMonth: '10',

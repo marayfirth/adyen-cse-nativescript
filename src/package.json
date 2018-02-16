@@ -1,8 +1,8 @@
 {
-    "name": "nativescript-adyen-cse-nativescript",
+    "name": "adyen-cse-nativescript",
     "version": "1.0.0",
     "description": "Your awesome NativeScript plugin.",
-    "main": "adyen-cse-nativescript",
+    "main": "card-encryption",
     "typings": "index.d.ts",
     "nativescript": {
         "platforms": {
@@ -30,17 +30,19 @@
         "NativeScript",
         "JavaScript",
         "Android",
-        "iOS"
+        "iOS",
+        "Adyen",
+        "CSE"
     ],
     "author": {
-        "name": "Your Name",
-        "email": "youremail@yourdomain.com"
+        "name": "marayfirth",
+        "email": "martin_orban@hotmail.com"
     },
     "bugs": {
-        "url": "https://github.com/marayfirth/nativescript-adyen-cse-nativescript/issues"
+        "url": "https://github.com/marayfirth/adyen-cse-nativescript/issues"
     },
-    "license": "Apache-2.0",
-    "homepage": "https://github.com/marayfirth/nativescript-adyen-cse-nativescript",
+    "license": "MIT",
+    "homepage": "https://github.com/marayfirth/adyen-cse-nativescript",
     "readmeFilename": "README.md",
     "devDependencies": {
         "tns-core-modules": "^3.1.0",
